@@ -8,6 +8,7 @@ func start
 
 ## local.settings.json
 
+``
 {
   "IsEncrypted": false,
   "Values": {
@@ -24,3 +25,4 @@ func start
     "sqldb_connection": "DataSource=app.db;Cache=Shared"
   }
 }
+``
