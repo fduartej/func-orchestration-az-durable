@@ -1,0 +1,11 @@
+POST http://localhost:7071/api/OrderProcessor_Starter
+Content-Type: application/json
+
+{
+    "Id":103,
+    "CustomerName":"Fred",
+    "Amount":100.50,
+    "OrderDate":"2022-10-10",
+    "DeliveryDate":"2022-10-10",
+    "Email":"fduartej@gmail.com"
+}
